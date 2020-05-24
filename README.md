@@ -1,15 +1,14 @@
-# resume - 个人简历
+# 雷银春 - 个人简历
 
 ## 个人信息
 
-* 姓名：雷银春
 * 手机：18980914937（微信同号）
 * Email：a@wyolo.com
 * 年龄：31
 * 住址：成都市龙泉驿区大面镇
 * 工作年限：8年
 * 教育背景：成都信息工程大学 - 通信专业（2008.09-2012.06），大学本科
-* Github：https://github.com/stelalae （有iOS开源项目：[WebCacheFile](https://github.com/stelalae/WebCacheFile)、[博客](https://github.com/stelalae/blog)）
+* Github：https://github.com/stelalae （[个人博客](https://github.com/stelalae/blog)，开源项目：[WebCacheFile](https://github.com/stelalae/WebCacheFile)）
 * 期望职位：前端开发负责人，ReactNative高级开发，iOS高级开发，应用架构师
 * 期望城市：成都
 
